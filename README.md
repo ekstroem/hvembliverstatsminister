@@ -6,8 +6,9 @@ bliver statsminister.
 data.csv indeholder det indsamlede data med flg. variable:
 date: dato for indsamling i MMDD format
 time: tidspunkt for indsamling i TTMM format, 
-bf_llr: Betfairs odds for LLR
-bf_hts: Betfairs odds for HTS
+
+bf_llr: Betfairs odds (fra market) for LLR
+bf_hts: Betfairs odds (fra market) for HTS
 ds_llr: Danske Spils odds for LLR
 ds_hts: Danske Spils odds for HTS
 ub_llr: Unibets odds for LLR
